@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34616.47
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ESTRUTURA LOOP DE REPETIÇÃO 7", "ESTRUTURA LOOP DE REPETIÇÃO 7\ESTRUTURA LOOP DE REPETIÇÃO 7.csproj", "{76556EE5-5571-4016-B185-055F8911EF10}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{76556EE5-5571-4016-B185-055F8911EF10}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76556EE5-5571-4016-B185-055F8911EF10}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76556EE5-5571-4016-B185-055F8911EF10}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76556EE5-5571-4016-B185-055F8911EF10}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E8D3E1B6-7583-4BFE-B49D-8452A011ADB2}
+	EndGlobalSection
+EndGlobal
